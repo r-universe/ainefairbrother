@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ensemblQueryR"]
+	path = ensemblQueryR
+	url = https://github.com/ainefairbrother/ensemblqueryr
+	shallow = true
+	registered = true
